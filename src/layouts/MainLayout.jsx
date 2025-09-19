@@ -16,7 +16,6 @@ import EmployeeManagement from "../pages/admin/EmployeeManagement";
 import EmployeeRequests from "../pages/admin/EmployeeRequests";
 import TimeTracking from "../pages/admin/TimeTracking";
 import PayrollManagement from "../pages/admin/PayrollManagement";
-import Reports from "../pages/admin/Reports";
 import SystemSettings from "../pages/admin/SystemSettings";
 
 export default function MainLayout({ userType, activeMenu, onMenuClick, onLogout }) {
